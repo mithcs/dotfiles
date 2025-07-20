@@ -1,0 +1,14 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+zshrc = "~/.zshrc"
+helix = "~/.config/helix/config.toml"
+dunstrc = "~/.config/dunst/dunstrc"
+
+[default.variables]
+
+[settings]
+default_target_type = "symbolic"
