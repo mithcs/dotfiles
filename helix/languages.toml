@@ -6,3 +6,8 @@ args = ["--stdio"]
 name = "html"
 roots = [".git"]
 language-servers = ["emmet-lsp"]
+
+[[language]]
+name = "css"
+roots = [".git"]
+language-servers = ["emmet-lsp"]
