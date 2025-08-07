@@ -2,7 +2,6 @@ theme = "onelight"
 
 [editor]
 color-modes = true
-cursorline = true
 line-number = "relative"
 mouse = false
 
