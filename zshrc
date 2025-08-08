@@ -33,7 +33,8 @@ alias \
 alias \
     ga="git add" \
     gc="git commit" \
-    gp="git push"
+    gp="git push" \
+    gs="git status"
 
 # Others
 alias wireshark='sudo wireshark' \
