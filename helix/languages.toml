@@ -11,3 +11,10 @@ language-servers = ["emmet-lsp"]
 name = "css"
 roots = [".git"]
 language-servers = ["emmet-lsp"]
+
+[[language]]
+name = "erb"
+file-types = ["ecr"]
+roots = [".git"]
+scope = "scope.ecr"
+language-servers = ["emmet-lsp"]
